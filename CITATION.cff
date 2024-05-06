@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Hasnaoui
+    given-names: Mohamed Farouk
+    orcid: https://orcid.org/0009-0000-4451-9339
+title: "DronePropellerAeroPredict"
+version: 0.1.0
+date-released: 2024-06-05
+url: "https://github.com/EngenMe/DronePropellerAeroPredic"
